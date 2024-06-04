@@ -21,5 +21,11 @@ This script uses the `re` and `os` modules from the Python Standard Library.
 ## Example
 
 ```bash
+# Run the script with the follow command in your console of choice
+
 python passwordChecker.py
+
+# Or use the following command if the above for mentioned command doesn't work
+
+python3 passwordChecker.py
 ```
