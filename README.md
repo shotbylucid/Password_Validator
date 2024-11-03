@@ -1,4 +1,4 @@
-# Password Checker
+# Password Validator
 
 This Python script checks if a password meets certain requirements. The requirements are:
 
@@ -23,9 +23,9 @@ This script uses the `re` and `os` modules from the Python Standard Library.
 ```bash
 # Run the script with the follow command in your console of choice
 
-python passwordChecker.py
+python passwordValidator.py
 
 # Or use the following command if the above for mentioned command doesn't work
 
-python3 passwordChecker.py
+python3 passwordValidator.py
 ```
